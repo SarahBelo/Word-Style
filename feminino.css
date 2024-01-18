@@ -1,0 +1,42 @@
+
+.roupas1{
+	width: auto;
+	height: auto;
+	justify-content: space-between;
+	align-items: center;
+	margin-left: 100px;
+  
+  }
+	.roupas{
+	  height: 280px;
+	  width: 250px;
+	  padding:20px;
+	}
+  
+	.roupas-text{
+	  margin-left: 20px;
+	  font-size: large;
+	  font-family: Arial, Helvetica, sans-serif;
+	  color: rgb(255, 255, 255);
+	}
+  
+	.item {
+	  display: inline-block;
+	  margin-right: 20px;
+	  margin-top: 5px;
+	  background-color: #1b2029;
+	}
+  
+  
+	.border{
+	  display: inline-block;
+	  border: 2px solid black; 
+	  padding: 15px; 
+	  border-radius: 12px; 
+	  margin-top: 20px; 
+	  margin-bottom: 40px; 
+	  background-color: black;
+	  margin-left: 70px;
+	  color: white;
+	  width: 115px;
+	}
